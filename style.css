@@ -1,0 +1,16 @@
+body {
+     padding:20px;
+}
+
+chart {
+    padding: 20px;
+}
+
+h2 {
+    font-family: Helvetica;
+}
+
+.sprintHeader {
+    text-align: center;
+    background-color: #98AFC7;
+}
